@@ -1,0 +1,32 @@
+AH
+nagłówek uwierzytelniania
+API
+interfejs programów użytkowych
+ARP
+protokół odwzorowywania adresów
+ASCII
+standardowy amerykański kod wymiany informacji
+AS
+system autonomiczny
+ATM
+tryb przesyłania asynchronicznego
+B8ZC
+bipolarna substytucja ośmiozerowa
+BECN
+jawne powiadomienie o zatorze wysyłane w kierunku nadawcy
+bps
+bity na sekunde
+BRA
+dostęp w trybie podstawowym
+BPDU
+jednostka danych protokołu mostu
+CIR
+przepustowość gwarantowana umową
+CBR
+przepustowość chwilowa gwarantowana umową
+CRC
+cykliczna kontrola nadmiarowa
+DES
+Standard szyfrowania danych
+DFS
+Dynamiczny wybór częstotliwości
